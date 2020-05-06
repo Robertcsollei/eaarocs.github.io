@@ -98,7 +98,7 @@ nav {
     grid-row: 2 / 3;
            background-image:
     linear-gradient(to right, rgba(82, 82, 100, 0.7), rgba(15, 15, 24, 1)),
-    url('/images/blade-runner.jpg');
+    url('images/blade-runner.jpg');
 
     
 }
