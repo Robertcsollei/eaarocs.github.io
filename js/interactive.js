@@ -155,6 +155,7 @@ function show(){
     movieTitle.style.display = 'none'
     movieDesc.style.display = 'none'
     close.style.display = 'block'
+    imdbRating.style.display = 'none'
 
 }
 
@@ -190,7 +191,9 @@ canvas.addEventListener("click", ()=> {
         showModal()
         movieTitle.style.display = 'block'
         movieDesc.style.display = 'block'
+        imdbRating.style.display = 'block'
         close.style.display = 'none'
+
         
 
     }else{
